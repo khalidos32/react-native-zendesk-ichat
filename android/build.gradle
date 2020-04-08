@@ -49,7 +49,6 @@ repositories {
         url "$projectDir/../node_modules/react-native/android"
     }
     mavenCentral()
-    maven { url 'https://zendesk.artifactoryonline.com/zendesk/repo' }
     maven { url 'https://zendesk.jfrog.io/zendesk/repo' }
 }
 
